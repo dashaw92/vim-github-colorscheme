@@ -61,13 +61,13 @@ hi Identifier   ctermfg=31 guifg=#0086B3
 hi PreProc  ctermfg=247 guifg=#A0A0A0 gui=bold cterm=bold
 hi Comment  ctermfg=246 guifg=#999988
 hi Constant ctermfg=6 guifg=#177F80 gui=none cterm=none
-hi String   ctermfg=161 guifg=#DD1144
+hi String   ctermfg=161 guifg=#D81745
 hi Function ctermfg=88 guifg=#990000 gui=bold cterm=bold
 hi Statement    ctermfg=0 guifg=#000000 gui=bold cterm=bold
 hi Type     ctermfg=60 guifg=#445588 gui=bold   cterm=bold
 hi Number   ctermfg=30 guifg=#1C9898
 hi Todo     ctermfg=15 ctermbg=88 guifg=#FFFFFF guibg=#990000 gui=bold cterm=bold
-hi Special  ctermfg=28 guifg=#DD1144
+hi Special  ctermfg=28 guifg=#159828 gui=bold   cterm=bold
 hi Todo         ctermbg=15 ctermfg=196 guibg=#f8f8ff guifg=#ff1100 gui=underline cterm=underline
 hi Label        ctermfg=0 guifg=#000000 gui=bold    cterm=bold
 hi StorageClass ctermfg=0 guifg=#000000 gui=bold    cterm=bold
